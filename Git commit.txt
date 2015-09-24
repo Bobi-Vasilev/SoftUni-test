@@ -1,4 +1,10 @@
 Hello
 Softuni
+<<<<<<< HEAD
+change
+change hello
+=======
 conflict
 change
+>>>>>>> f023ab1b7de0e95f66c3f26215bb6a97d6790e07
+work
